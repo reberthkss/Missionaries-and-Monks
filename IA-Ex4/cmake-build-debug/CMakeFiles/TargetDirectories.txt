@@ -1,0 +1,3 @@
+/Users/reberthkelvin/CLionProjects/IA-Ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/reberthkelvin/CLionProjects/IA-Ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/reberthkelvin/CLionProjects/IA-Ex4/cmake-build-debug/CMakeFiles/IA_Ex4.dir
