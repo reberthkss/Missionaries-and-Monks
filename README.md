@@ -7,7 +7,7 @@ Solutions for the [Missionaries and Cannibals Problem](https://en.wikipedia.org/
 
 ## Solutions
 
-The problem was solved using three different languages: Java, Python and Prolog:
+The problem was solved using cpp:
 
 ### CPP
 
